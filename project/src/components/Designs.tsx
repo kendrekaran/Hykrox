@@ -41,7 +41,7 @@ const designs = [
     projects: [
       {
         title: 'Dashboard Elements',
-        image: 'https://i.pinimg.com/474x/99/95/71/99957101559063892f92a5f9b05f66ef.jpg',
+        image: 'https://i.pinimg.com/736x/d5/9e/d5/d59ed5672dee026bdb738a779389b89d.jpg',
         description: 'Modern admin interface components'
       },
       {
