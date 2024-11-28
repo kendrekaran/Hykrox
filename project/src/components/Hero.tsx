@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="h-full md:py-32 bg-black flex items-center relative overflow-hidden" id="home">
       {/* Background Image */}
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1550745165-9bc0b252726f')] bg-cover bg-center opacity-10" />
+      <div className="absolute inset-0 bg-[url('https://i.pinimg.com/474x/91/f1/64/91f164d561efe7a7105e9076f9c41f76.jpg')] bg-cover bg-center opacity-10" />
 
       {/* Content */}
       <div className="max-w-7xl mx-auto px-6 py-20 flex flex-col md:flex-row items-center justify-between relative z-10 space-y-10 md:space-y-0">
