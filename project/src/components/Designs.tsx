@@ -9,12 +9,12 @@ const designs = [
     projects: [
       {
         title: 'Modern E-commerce',
-        image: 'https://images.unsplash.com/photo-1661956602116-aa6865609028',
+        image: 'https://i.pinimg.com/474x/6e/84/70/6e847035f07ce5b4152702311c11583b.jpg',
         description: 'Clean and intuitive shopping experience'
       },
       {
         title: 'Portfolio Platform',
-        image: 'https://images.unsplash.com/photo-1547658719-da2b51169166',
+        image: 'https://i.pinimg.com/474x/c8/2d/c9/c82dc9d2ac8e3cc870fccfc048554dd9.jpg',
         description: 'Showcase creative work elegantly'
       }
     ]
@@ -25,12 +25,12 @@ const designs = [
     projects: [
       {
         title: 'Fitness App',
-        image: 'https://images.unsplash.com/photo-1526506118085-60ce8714f8c5',
+        image: 'https://i.pinimg.com/474x/9e/c7/9c/9ec79cb33b34eec7ba84bdc740deede1.jpg',
         description: 'Track workouts and health metrics'
       },
       {
         title: 'Food Delivery',
-        image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38',
+        image: 'https://i.pinimg.com/474x/42/d3/d8/42d3d89bace307b0a6ff3b24fbba2753.jpg',
         description: 'Order food with ease'
       }
     ]
