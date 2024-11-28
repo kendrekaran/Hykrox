@@ -7,21 +7,21 @@ const testimonials = [
     name: 'Sarah Johnson',
     role: 'CEO at TechStart',
     content: 'Working with this team was an absolute pleasure. They transformed our vision into reality with incredible attention to detail.',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
+    image: 'https://i.pinimg.com/474x/7c/fd/36/7cfd36cccb749df9df6f247eabb8dcb2.jpg',
     rating: 5
   },
   {
     name: 'Michael Chen',
     role: 'Product Manager',
     content: 'The level of creativity and technical expertise they brought to our project exceeded our expectations.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d',
+    image: 'https://i.pinimg.com/736x/3d/79/50/3d7950898278053bfc8aee04bb1e722a.jpg',
     rating: 5
   },
   {
     name: 'Emily Rodriguez',
     role: 'Marketing Director',
     content: 'Their innovative approach to design and problem-solving helped us achieve outstanding results.',
-    image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80',
+    image: 'https://i.pinimg.com/474x/87/3b/88/873b882f5743110850a701195a37bd3c.jpg',
     rating: 5
   }
 ];
