@@ -29,19 +29,19 @@ const team = [
   {
     name: 'Alex Thompson',
     role: 'Creative Director',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e',
+    image: 'https://i.pinimg.com/474x/01/35/4d/01354d6791d6dbe3fa30a282aed251ca.jpg',
     bio: 'Leading creative vision with 10+ years of experience.'
   },
   {
     name: 'Sarah Chen',
     role: 'Lead Designer',
-    image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
+    image: 'https://i.pinimg.com/474x/92/8e/5e/928e5e0e02042f5f707299d7cbdd55eb.jpg',
     bio: 'Expert in UI/UX with a passion for beautiful design.'
   },
   {
     name: 'Marcus Rodriguez',
     role: 'Technical Lead',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d',
+    image: 'https://i.pinimg.com/474x/e6/cc/0c/e6cc0c25b112b08b9cb4abb3709d29cf.jpg',
     bio: 'Bridging design and technology with innovative solutions.'
   }
 ];
