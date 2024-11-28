@@ -41,12 +41,12 @@ const designs = [
     projects: [
       {
         title: 'Dashboard Elements',
-        image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71',
+        image: 'https://i.pinimg.com/474x/99/95/71/99957101559063892f92a5f9b05f66ef.jpg',
         description: 'Modern admin interface components'
       },
       {
         title: 'Form Components',
-        image: 'https://images.unsplash.com/photo-1507238691740-187a5b1d37b8',
+        image: 'https://i.pinimg.com/474x/d3/47/39/d3473980dc0437d6a0d53ef665aab9c3.jpg',
         description: 'Beautiful form elements'
       }
     ]
